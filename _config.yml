@@ -1,0 +1,14 @@
+layout_spectrum: 0.8781362
+typography_spectrum: 0.8584229
+color:
+  saturation: 0.2616487
+  lightness: 0.827957
+  brandStrength: 0.8169628
+  brandColors:
+    - '#FEFEFE'
+    - '#060405'
+    - '#431E16'
+    - '#786D5C'
+    - '#BCB6B4'
+  rhythmicContrast: 0.1899642
+name: HAL SPARKS
